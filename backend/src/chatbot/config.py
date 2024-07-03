@@ -1,0 +1,1 @@
+api_key = 'ADD YOUR CHATGPT API KEY'
